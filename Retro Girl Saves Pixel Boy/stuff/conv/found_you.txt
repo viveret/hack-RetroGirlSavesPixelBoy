@@ -1,0 +1,8 @@
+2:"Ohaider"
+0:"I'VE BEEN LOOCKING
+EVERYWHERE FOR YOU!"
+0:"WHERE HAVE YOU BEEN?!"
+2:"I went out to
+get the newspaper."
+1:"*Chuckles*"
+0:"I don't even..."

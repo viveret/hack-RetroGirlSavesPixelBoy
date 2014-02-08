@@ -1,0 +1,14 @@
+1:"Good work with these tasks,"
+1:"But do you know where
+your friend is?"
+0:"I'm tired of your jokes old man!"
+0:"Tell me where he is or I
+will hurt you!"
+1:"*In Bane's voice*"
+1:"You cannot hurt me child."
+1:"I'm helping you more than
+you think."
+1:"What are you willing to
+do for a lost friend?"
+0:"You're on your last straw,"
+0:"You dusty old fart!"

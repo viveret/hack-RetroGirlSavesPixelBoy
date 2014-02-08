@@ -1,0 +1,11 @@
+0:"...."
+0:"Maybe I'm sleeping..."
+0:"And this is just a dream."
+1:"Well you better listen to me
+or yu'll be feeling a lot worse!"
+0:"..."
+0:"I'm listening!"
+1:"...."
+0:"You are driving me crazy!"
+0:"Just tell me what to do!"
+1:"You know what to do."

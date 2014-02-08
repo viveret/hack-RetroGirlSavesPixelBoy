@@ -1,0 +1,9 @@
+0:"Who are you?"
+1:"SHHHHHH"
+1:"Its dangerous to go alone-"
+0:"I know where you are going
+with that."
+1:"So you don't want that sword?"
+0:"Of course I do."
+1:"Then go and pull that lever."
+
